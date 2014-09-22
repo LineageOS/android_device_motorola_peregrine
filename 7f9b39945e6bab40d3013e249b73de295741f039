@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_7e6e4930",
+        "filename": "rootdir/etc/fstab.qcom",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-09-22T06:07:18Z",
+      "side": 1,
+      "message": "I think this needs to be \u0027defaults\u0027, the line above it appears to be an error.",
+      "revId": "7f9b39945e6bab40d3013e249b73de295741f039",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
