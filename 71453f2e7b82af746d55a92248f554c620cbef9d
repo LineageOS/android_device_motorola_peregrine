@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9ad45d7e_7b4ea7c2",
+        "filename": "device.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 8217
+      },
+      "writtenOn": "2015-03-01T08:24:07Z",
+      "side": 1,
+      "message": "This probably isn\u0027t relevant, but http://review.cyanogenmod.org/#/c/83812/",
+      "revId": "71453f2e7b82af746d55a92248f554c620cbef9d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9ad45d7e_bbc65f14",
+        "filename": "system.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 8217
+      },
+      "writtenOn": "2015-03-01T08:24:07Z",
+      "side": 1,
+      "message": "There\u0027s also one in vendor/lib? I\u0027ll need to test this. Might be the reason for the signal appearance.",
+      "revId": "71453f2e7b82af746d55a92248f554c620cbef9d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
