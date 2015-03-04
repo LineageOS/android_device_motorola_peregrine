@@ -16,6 +16,24 @@
       "revId": "f6ddd84c9a873e78e2992679bec1c6e925136a4c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9ad45d7e_46af87e3",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 10846
+      },
+      "writtenOn": "2015-03-04T14:31:30Z",
+      "side": 1,
+      "message": "It\u0027s not, I only added it so that it\u0027s clear it can be left out. \"auto\" is the value which is added by default if not set, see build/core/Makefile",
+      "parentUuid": "9ad45d7e_861dff68",
+      "revId": "f6ddd84c9a873e78e2992679bec1c6e925136a4c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
