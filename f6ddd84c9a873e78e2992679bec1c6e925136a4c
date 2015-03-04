@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9ad45d7e_861dff68",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 8217
+      },
+      "writtenOn": "2015-03-04T14:08:36Z",
+      "side": 1,
+      "message": "Is this necessary to add?",
+      "revId": "f6ddd84c9a873e78e2992679bec1c6e925136a4c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
