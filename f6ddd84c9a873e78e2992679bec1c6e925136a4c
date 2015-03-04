@@ -34,6 +34,40 @@
       "revId": "f6ddd84c9a873e78e2992679bec1c6e925136a4c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9ad45d7e_e69ddb5a",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-03-04T16:37:13Z",
+      "side": 1,
+      "message": "Shouldn\u0027t be needed. peregrine is peregrine, there are no alternate variants AFAIK.",
+      "revId": "f6ddd84c9a873e78e2992679bec1c6e925136a4c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9ad45d7e_46a3079f",
+        "filename": "system.prop",
+        "patchSetId": 2
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-03-04T16:37:13Z",
+      "side": 1,
+      "message": "Doesn\u0027t make a real difference. /system/vendor is symlinked to /vendor.",
+      "revId": "f6ddd84c9a873e78e2992679bec1c6e925136a4c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
