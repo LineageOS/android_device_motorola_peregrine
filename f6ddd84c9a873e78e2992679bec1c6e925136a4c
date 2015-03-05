@@ -90,6 +90,24 @@
     },
     {
       "key": {
+        "uuid": "9ad45d7e_5f3aa6ce",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 10846
+      },
+      "writtenOn": "2015-03-05T11:24:12Z",
+      "side": 1,
+      "message": "Actually, after looking at the patch again, I notice that I only moved the lines down a little bit. So just the order was changed to be in sync with falcon. You still want me to remove it?",
+      "parentUuid": "9ad45d7e_84f97750",
+      "revId": "f6ddd84c9a873e78e2992679bec1c6e925136a4c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9ad45d7e_46a3079f",
         "filename": "system.prop",
         "patchSetId": 2
