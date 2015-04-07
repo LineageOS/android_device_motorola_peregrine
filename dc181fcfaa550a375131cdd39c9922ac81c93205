@@ -16,6 +16,24 @@
       "revId": "dc181fcfaa550a375131cdd39c9922ac81c93205",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3ac371cc_472cb0ab",
+        "filename": "system.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 10846
+      },
+      "writtenOn": "2015-04-07T07:02:27Z",
+      "side": 1,
+      "message": "Tried escaping with one/two backslashes, tried single quotes, double quotes. It doesn\u0027t work.\n\nSee http://review.cyanogenmod.org/#/c/93451/ for a possible fix.",
+      "parentUuid": "5ac665da_d59023ef",
+      "revId": "dc181fcfaa550a375131cdd39c9922ac81c93205",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
