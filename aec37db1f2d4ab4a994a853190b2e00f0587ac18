@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf091321_4e450c17",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 8217
+      },
+      "writtenOn": "2015-07-31T21:57:32Z",
+      "side": 0,
+      "message": "These were decommonized. See msm8226-common reply.",
+      "range": {
+        "startLine": 12,
+        "startChar": 2,
+        "endLine": 12,
+        "endChar": 8
+      },
+      "revId": "aec37db1f2d4ab4a994a853190b2e00f0587ac18",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

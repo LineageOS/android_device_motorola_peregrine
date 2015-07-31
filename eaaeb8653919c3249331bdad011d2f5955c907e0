@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf091321_8e3b249b",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 8217
+      },
+      "writtenOn": "2015-07-31T21:57:32Z",
+      "side": 1,
+      "message": "http://review.cyanogenmod.org/#/c/104113/",
+      "range": {
+        "startLine": 25,
+        "startChar": 22,
+        "endLine": 25,
+        "endChar": 23
+      },
+      "revId": "eaaeb8653919c3249331bdad011d2f5955c907e0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
