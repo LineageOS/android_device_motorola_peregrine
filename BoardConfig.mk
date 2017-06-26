@@ -21,7 +21,6 @@ DEVICE_PATH := device/motorola/peregrine
 # Vendor Unification Init
 TARGET_INIT_VENDOR_LIB := libinit_peregrine
 TARGET_RECOVERY_DEVICE_MODULES := libinit_peregrine
-TARGET_UNIFIED_DEVICE := true
 
 # Board
 TARGET_BOARD_INFO_FILE := $(DEVICE_PATH)/board-info.txt
